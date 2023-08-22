@@ -1,0 +1,86 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="href" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="IncorrectFormatting" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="3.12" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="faker" />
+            <item index="1" class="java.lang.String" itemvalue="certifi" />
+            <item index="2" class="java.lang.String" itemvalue="pymongo" />
+            <item index="3" class="java.lang.String" itemvalue="selenium" />
+            <item index="4" class="java.lang.String" itemvalue="allure_python_commons" />
+            <item index="5" class="java.lang.String" itemvalue="web3" />
+            <item index="6" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="7" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="8" class="java.lang.String" itemvalue="pytest" />
+            <item index="9" class="java.lang.String" itemvalue="allure-python-commons" />
+            <item index="10" class="java.lang.String" itemvalue="allure-pytest" />
+            <item index="11" class="java.lang.String" itemvalue="requests" />
+            <item index="12" class="java.lang.String" itemvalue="asgiref" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W605" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N812" />
+          <option value="N803" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Test_case.Test_Suite_api.test_login_api.get_status_codes" />
+          <option value="utility.global_messages" />
+          <option value="demo.views" />
+          <option value="restapis.restapis.urls.apis" />
+          <option value="watchlist_app.models.Movie.objects" />
+          <option value="watchlist_app.models.Movie.DoesNotExist" />
+          <option value="watchlist_app.models.Cast.*" />
+          <option value="imdbclone.models.WatchList.*" />
+          <option value="imdbclone.models.StreamingPlatform.*" />
+          <option value="user_1.api.serializers.Registeration_serializer.Meta.*" />
+          <option value="user_1.api.serializers.Registration_serializer.Meta.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="ShellCheck" enabled="true" level="ERROR" enabled_by_default="true">
+      <shellcheck_settings value="SC2103,SC2164" />
+    </inspection_tool>
+  </profile>
+</component>
