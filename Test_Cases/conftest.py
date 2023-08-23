@@ -30,15 +30,10 @@ def driver_setup(request):
 
     conf = ReadConfig()
     URL = conf.end_url()
-    logs.info(f'{URL}index')
+    logs.info(f'{URL}')
 
     if browser == 'Chrome':
         options = webdriver.ChromeOptions()
-        options.add_argument(
-            f"--load-extension={RELEASE_DIR}/{ReadConfig().executors()['buildname']}")
-        options.add_experimental_option('prefs', {
-            'download.default_directory': os.path.join(OUTPUT_DIR, 'mnemonics')
-        })
         options.accept_insecure_certs = True
         driver = webdriver.Chrome(options=options)
     elif browser == 'Firefox':
@@ -51,9 +46,10 @@ def driver_setup(request):
         driver = webdriver.Safari()
     else:
         raise Exception('Select Valid Browser from the List:: {Chrome, Firefox, Edge, Safari}')
-    logs.info(f'{str(driver.session_id), str(browser)}')
+
     driver.maximize_window()
     driver.implicitly_wait(15)
+    driver.get(URL)
     create_json(f'caps.json', driver.capabilities)
     request.cls.driver = driver
     yield
@@ -90,7 +86,7 @@ def allure_env(request):
     env = {
         'Operating.System': platformName,
         'Environment': 'Staging',
-        'Application': 'Shuttle-Wallet-Web',
+        'Application': 'Arise Capital',
         'App.Path': ReadConfig().end_url()
     }
     with open(os.path.join(conf, ALLURE_ENVIRONMENT_PROPERTIES_FILE), 'w') as write:
