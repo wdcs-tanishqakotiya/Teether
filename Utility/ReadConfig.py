@@ -7,7 +7,7 @@ class ReadConfig:
     parent_path = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
     config = configparser.RawConfigParser()
 
-    file_path = os.path.join(parent_path, 'Config', 'config.ini')
+    file_path = os.path.join(cwd, 'Config', 'config.ini')
     if os.path.exists(file_path):
         config.read(file_path)
 

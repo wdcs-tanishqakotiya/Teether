@@ -27,7 +27,6 @@ def driver_setup(request):
     logs = _get_config_logs()
 
     browser = request.config.getoption('--browser')
-
     conf = ReadConfig()
     URL = conf.end_url()
     logs.info(f'{URL}')
@@ -35,6 +34,9 @@ def driver_setup(request):
     if browser == 'Chrome':
         options = webdriver.ChromeOptions()
         options.accept_insecure_certs = True
+        options.add_experimental_option("prefs", {
+            "profile.default_content_setting_values.geolocation": 1
+        })
         driver = webdriver.Chrome(options=options)
     elif browser == 'Firefox':
         options = webdriver.FirefoxOptions()
@@ -50,6 +52,13 @@ def driver_setup(request):
     driver.maximize_window()
     driver.implicitly_wait(15)
     driver.get(URL)
+    try:
+        location_prompt = driver.switch_to.alert
+        logs.info("Location Prompt Text:", location_prompt.text)
+        location_prompt.accept()
+    except:
+        logs.info("No location access prompt found.")
+
     create_json(f'caps.json', driver.capabilities)
     request.cls.driver = driver
     yield

@@ -1,0 +1,1 @@
+from Page_Object_Model.home_page import home_page_modelfrom Utility.baseclass import BaseClassclass Test_signUp_functionality(BaseClass):    def test_sign_in(self):        home_page = home_page_model(self.driver)        home_page.click_sign_up_button()

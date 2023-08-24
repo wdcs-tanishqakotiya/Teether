@@ -1,0 +1,817 @@
+2023-08-24 19:09:59,571 [INFO] conftest.py:162 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+2023-08-24 19:09:59,574 [INFO] conftest.py:33 None
+2023-08-24 19:10:05,263 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:10:05,264 [INFO] conftest.py:133 08_24_1910_05_test_sign_in.png
+2023-08-24 19:10:05,266 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1910_05_test_sign_in.png
+2023-08-24 19:10:05,519 [WARNING] conftest.py:81 [Errno 2] No such file or directory: '/Users/webclues/Tanishq/Projects/arise_capital/caps.json'
+2023-08-24 19:10:05,526 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:10:05,526 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:10:05,526 [INFO] conftest.py:133 08_24_1910_05_test_sign_in.png
+2023-08-24 19:10:05,526 [INFO] conftest.py:133 08_24_1910_05_test_sign_in.png
+2023-08-24 19:10:05,528 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1910_05_test_sign_in.png
+2023-08-24 19:10:05,528 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1910_05_test_sign_in.png
+2023-08-24 19:12:44,985 [INFO] conftest.py:162 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+2023-08-24 19:13:23,762 [INFO] conftest.py:33 None
+2023-08-24 19:13:27,450 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:13:27,451 [INFO] conftest.py:133 08_24_1913_27_test_sign_in.png
+2023-08-24 19:13:27,456 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1913_27_test_sign_in.png
+2023-08-24 19:13:27,774 [WARNING] conftest.py:81 [Errno 2] No such file or directory: '/Users/webclues/Tanishq/Projects/arise_capital/caps.json'
+2023-08-24 19:13:27,792 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:13:27,792 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:13:27,793 [INFO] conftest.py:133 08_24_1913_27_test_sign_in.png
+2023-08-24 19:13:27,793 [INFO] conftest.py:133 08_24_1913_27_test_sign_in.png
+2023-08-24 19:13:27,798 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1913_27_test_sign_in.png
+2023-08-24 19:13:27,798 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1913_27_test_sign_in.png
+2023-08-24 19:13:39,428 [INFO] conftest.py:162 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+2023-08-24 19:14:22,674 [INFO] conftest.py:162 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+2023-08-24 19:14:31,027 [INFO] conftest.py:33 https://teether-web.qa.webcluesstaging.com/
+2023-08-24 19:14:36,978 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:14:37,111 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:14:37,111 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:14:37,112 [INFO] conftest.py:133 08_24_1914_37_test_sign_in.png
+2023-08-24 19:14:37,112 [INFO] conftest.py:133 08_24_1914_37_test_sign_in.png
+2023-08-24 19:14:37,118 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1914_37_test_sign_in.png
+2023-08-24 19:14:37,771 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:14:37,771 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:14:37,771 [INFO] conftest.py:124 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:14:37,771 [INFO] conftest.py:133 08_24_1914_37_test_sign_in.png
+2023-08-24 19:14:37,771 [INFO] conftest.py:133 08_24_1914_37_test_sign_in.png
+2023-08-24 19:14:37,771 [INFO] conftest.py:133 08_24_1914_37_test_sign_in.png
+2023-08-24 19:14:37,777 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1914_37_test_sign_in.png
+2023-08-24 19:14:37,777 [INFO] conftest.py:215 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1914_37_test_sign_in.png
+2023-08-24 19:14:37,789 [ERROR] conftest.py:220 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=62406): Max retries exceeded with url: /session/8eb81c07c5173dc01c47b7173f856787/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 217, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=62406): Max retries exceeded with url: /session/8eb81c07c5173dc01c47b7173f856787/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-24 19:14:37,789 [ERROR] conftest.py:220 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=62406): Max retries exceeded with url: /session/8eb81c07c5173dc01c47b7173f856787/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 217, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=62406): Max retries exceeded with url: /session/8eb81c07c5173dc01c47b7173f856787/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-24 19:14:37,789 [ERROR] conftest.py:220 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=62406): Max retries exceeded with url: /session/8eb81c07c5173dc01c47b7173f856787/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 217, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=62406): Max retries exceeded with url: /session/8eb81c07c5173dc01c47b7173f856787/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11c581ad0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-24 19:16:10,380 [INFO] conftest.py:161 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+2023-08-24 19:16:10,387 [INFO] conftest.py:32 https://teether-web.qa.webcluesstaging.com/
+2023-08-24 19:16:16,934 [INFO] conftest.py:123 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:16:21,071 [INFO] conftest.py:123 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:16:21,071 [INFO] conftest.py:123 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:16:21,239 [INFO] conftest.py:123 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:16:21,239 [INFO] conftest.py:123 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:16:21,239 [INFO] conftest.py:123 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:16:21,239 [INFO] conftest.py:132 08_24_1916_21_test_sign_in.png
+2023-08-24 19:16:21,239 [INFO] conftest.py:132 08_24_1916_21_test_sign_in.png
+2023-08-24 19:16:21,239 [INFO] conftest.py:132 08_24_1916_21_test_sign_in.png
+2023-08-24 19:16:21,241 [INFO] conftest.py:214 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1916_21_test_sign_in.png
+2023-08-24 19:16:21,248 [ERROR] conftest.py:219 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=62850): Max retries exceeded with url: /session/962d92c25b869016d5b96bdf1714e568/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11fecf0d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x11fecf0d0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 216, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=62850): Max retries exceeded with url: /session/962d92c25b869016d5b96bdf1714e568/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11fecf0d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-24 19:16:21,248 [ERROR] conftest.py:219 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=62850): Max retries exceeded with url: /session/962d92c25b869016d5b96bdf1714e568/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11fecf0d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x11fecf0d0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 216, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=62850): Max retries exceeded with url: /session/962d92c25b869016d5b96bdf1714e568/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11fecf0d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-24 19:17:47,509 [INFO] conftest.py:168 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+2023-08-24 19:17:47,512 [INFO] conftest.py:32 https://teether-web.qa.webcluesstaging.com/
+2023-08-24 19:17:53,401 [INFO] conftest.py:57 No location access prompt found.
+2023-08-24 19:17:53,433 [INFO] conftest.py:130 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:17:57,527 [INFO] conftest.py:130 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:17:57,527 [INFO] conftest.py:130 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:17:57,680 [INFO] conftest.py:130 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:17:57,680 [INFO] conftest.py:130 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:17:57,680 [INFO] conftest.py:130 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:17:57,680 [INFO] conftest.py:139 08_24_1917_57_test_sign_in.png
+2023-08-24 19:17:57,680 [INFO] conftest.py:139 08_24_1917_57_test_sign_in.png
+2023-08-24 19:17:57,680 [INFO] conftest.py:139 08_24_1917_57_test_sign_in.png
+2023-08-24 19:17:57,683 [INFO] conftest.py:221 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1917_57_test_sign_in.png
+2023-08-24 19:17:57,690 [ERROR] conftest.py:226 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=63289): Max retries exceeded with url: /session/ba58b6f96642e523172a8d5e2a3328c8/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11e81e390>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x11e81e390>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 223, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=63289): Max retries exceeded with url: /session/ba58b6f96642e523172a8d5e2a3328c8/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11e81e390>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-24 19:17:57,690 [ERROR] conftest.py:226 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=63289): Max retries exceeded with url: /session/ba58b6f96642e523172a8d5e2a3328c8/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11e81e390>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x11e81e390>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 223, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=63289): Max retries exceeded with url: /session/ba58b6f96642e523172a8d5e2a3328c8/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11e81e390>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-24 19:19:33,015 [INFO] conftest.py:171 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+2023-08-24 19:19:33,019 [INFO] conftest.py:32 https://teether-web.qa.webcluesstaging.com/
+2023-08-24 19:19:40,038 [INFO] conftest.py:60 No location access prompt found.
+2023-08-24 19:19:40,047 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:19:44,152 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:19:44,152 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:19:44,285 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:19:44,285 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:19:44,285 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-24 19:19:44,285 [INFO] conftest.py:142 08_24_1919_44_test_sign_in.png
+2023-08-24 19:19:44,285 [INFO] conftest.py:142 08_24_1919_44_test_sign_in.png
+2023-08-24 19:19:44,285 [INFO] conftest.py:142 08_24_1919_44_test_sign_in.png
+2023-08-24 19:19:44,286 [INFO] conftest.py:224 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1919_44_test_sign_in.png
+2023-08-24 19:19:44,293 [ERROR] conftest.py:229 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=63764): Max retries exceeded with url: /session/137c061a5b868a2be68795fd26080b95/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 226, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=63764): Max retries exceeded with url: /session/137c061a5b868a2be68795fd26080b95/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-24 19:19:44,293 [ERROR] conftest.py:229 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=63764): Max retries exceeded with url: /session/137c061a5b868a2be68795fd26080b95/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 243, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 226, in _capture_screenshot
+    driver.get_screenshot_as_file(IMAGES_DIR_PATH)
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 836, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 847, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 343, in execute
+    response = self.command_executor.execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 291, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/remote_connection.py", line 312, in _request
+    response = self._conn.request(method, url, body=body, headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 110, in request
+    return self.request_encode_url(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/_request_methods.py", line 143, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/poolmanager.py", line 443, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 874, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=63764): Max retries exceeded with url: /session/137c061a5b868a2be68795fd26080b95/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused'))

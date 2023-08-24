@@ -1,0 +1,1 @@
+from time import sleepfrom Utility.global_driver_utils import AbstractComponentclass home_page_model(AbstractComponent):    def __init__(self, driver):        super().__init__(driver)    def click_sign_up_button(self):        self.click_button(button_txt='Sign Up')        sleep(4)
