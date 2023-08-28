@@ -10,7 +10,7 @@ def allure_misc_config(file_name):
     with open(file_name + '/widgets/summary.json', "r") as jsonFile:
         data = json.load(jsonFile)
 
-    data["reportName"] = "Shuttle-Wallet"
+    data["reportName"] = "Teether"
 
     with open(file_name + '/widgets/summary.json', "w") as jsonFile:
         json.dump(data, jsonFile)
