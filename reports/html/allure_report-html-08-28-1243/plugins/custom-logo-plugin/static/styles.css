@@ -1,0 +1,4 @@
+.side-nav__brand {
+  background: url('custom-logo.jpg') no-repeat left center !important;
+  padding-left: 60px !important
+}

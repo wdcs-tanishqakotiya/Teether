@@ -34,9 +34,6 @@ def driver_setup(request):
     if browser == 'Chrome':
         options = webdriver.ChromeOptions()
         options.accept_insecure_certs = True
-        options.add_experimental_option("prefs", {
-            "profile.default_content_setting_values.geolocation": 1
-        })
         driver = webdriver.Chrome(options=options)
     elif browser == 'Firefox':
         options = webdriver.FirefoxOptions()
@@ -51,13 +48,24 @@ def driver_setup(request):
 
     driver.maximize_window()
     driver.implicitly_wait(15)
-    driver.get(URL)
     try:
-        location_prompt = driver.switch_to.alert
-        logs.info("Location Prompt Text:", location_prompt.text)
-        location_prompt.accept()
+        Script = """
+        "window.navigator.geolocation.getCurrentPosition = function(success) {
+        var
+        position = {
+            "coords": {
+                "latitude": "22.996677",
+                "longitude": "72.498715"
+            }
+        };
+        success(position);
+        }");
+        }
+        """
+        driver.execute_script(Script)
     except:
         logs.info("No location access prompt found.")
+    driver.get(URL)
 
     create_json(f'caps.json', driver.capabilities)
     request.cls.driver = driver

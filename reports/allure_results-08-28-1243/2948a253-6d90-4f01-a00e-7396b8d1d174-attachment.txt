@@ -1,0 +1,3 @@
+INFO     screen_recording:conftest.py:179 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+INFO     driver_setup:conftest.py:32 https://teether-web.qa.webcluesstaging.com/
+INFO     driver_setup:conftest.py:67 No location access prompt found.

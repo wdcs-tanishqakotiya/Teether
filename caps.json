@@ -4,11 +4,11 @@
       "browserVersion": "116.0.5845.110",
       "chrome": {
             "chromedriverVersion": "116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382})",
-            "userDataDir": "/var/folders/pq/x4p4t21j0mn2hkp5d2y9yjgm0000gn/T/.org.chromium.Chromium.A1Ye7u"
+            "userDataDir": "/var/folders/pq/x4p4t21j0mn2hkp5d2y9yjgm0000gn/T/.org.chromium.Chromium.oEvdJz"
       },
       "fedcm:accounts": true,
       "goog:chromeOptions": {
-            "debuggerAddress": "localhost:63777"
+            "debuggerAddress": "localhost:63135"
       },
       "networkConnectionEnabled": false,
       "pageLoadStrategy": "normal",

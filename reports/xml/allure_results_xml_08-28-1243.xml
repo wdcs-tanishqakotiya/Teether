@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="1" failures="0" skipped="0" tests="2" time="11.752" timestamp="2023-08-28T18:13:23.818527" hostname="webcluess-Mac-mini-2.local"><testcase classname="Test_SignUp_Suite.test_signUp.Test_signUp_functionality" name="test_sign_in" time="11.572"><error message="failed on teardown with &quot;IndexError: list index out of range&quot;">self = &lt;allure_commons._allure.fixture object at 0x114f8a690&gt;, args = ()
+kwargs = {}
+
+    def __call__(self, *args, **kwargs):
+        self.parameters = func_parameters(self._fixture_function, *args, **kwargs)
+    
+        with self:
+&gt;           return self._fixture_function(*args, **kwargs)
+
+.venv/lib/python3.11/site-packages/allure_commons/_allure.py:221: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Test_Cases/conftest.py:186: in screen_recording
+    recorder.stop_recording()
+.venv/lib/python3.11/site-packages/pyscreenrec/__init__.py:115: in stop_recording
+    self._save_video(self.video_name)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = pyscreenrec is a small and cross-platform python library that can be used to record screen. 
+For more info, visit https://github.com/Shravan-1908/pyscreenrec#readme.
+video_name = '/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Videos/08_28_1813_23_Test_signUp_functionality.mp4'
+
+    def _save_video(self, video_name:str) -&gt; None:
+        """
+        (Protected) Makes a video out of the screenshots.
+    
+        @params
+    
+        video_name (str) --&gt; Name or path to the output video.
+        """
+        # fetching image info
+        images = natsorted([img for img in os.listdir(self.screenshot_folder) if img.endswith(".jpg")])
+&gt;       frame = cv2.imread(os.path.join(self.screenshot_folder, images[0]))
+E       IndexError: list index out of range
+
+.venv/lib/python3.11/site-packages/pyscreenrec/__init__.py:151: IndexError</error></testcase></testsuite></testsuites>

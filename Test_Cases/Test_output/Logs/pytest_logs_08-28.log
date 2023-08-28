@@ -1,15 +1,15 @@
-2023-08-24 19:19:33 [INFO] conftest.py:171 ===== Screen Recording Test_Name::Test_signUp_functionality =====
-2023-08-24 19:19:33 [INFO] conftest.py:32 https://teether-web.qa.webcluesstaging.com/
-2023-08-24 19:19:40 [INFO] conftest.py:60 No location access prompt found.
-2023-08-24 19:19:40 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
-2023-08-24 19:19:44 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
-2023-08-24 19:19:44 [INFO] conftest.py:133 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
-2023-08-24 19:19:44 [INFO] conftest.py:142 08_24_1919_44_test_sign_in.png
-2023-08-24 19:19:44 [INFO] conftest.py:224 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_24_1919_44_test_sign_in.png
-2023-08-24 19:19:44 [WARNING] connectionpool.py:871 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a316d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/137c061a5b868a2be68795fd26080b95/screenshot
-2023-08-24 19:19:44 [WARNING] connectionpool.py:871 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a31d90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/137c061a5b868a2be68795fd26080b95/screenshot
-2023-08-24 19:19:44 [WARNING] connectionpool.py:871 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a324d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/137c061a5b868a2be68795fd26080b95/screenshot
-2023-08-24 19:19:44 [ERROR] conftest.py:229 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=63764): Max retries exceeded with url: /session/137c061a5b868a2be68795fd26080b95/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2023-08-28 18:13:23 [INFO] conftest.py:179 ===== Screen Recording Test_Name::Test_signUp_functionality =====
+2023-08-28 18:13:23 [INFO] conftest.py:32 https://teether-web.qa.webcluesstaging.com/
+2023-08-28 18:13:26 [INFO] conftest.py:67 No location access prompt found.
+2023-08-28 18:13:30 [INFO] conftest.py:141 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-28 18:13:35 [INFO] conftest.py:141 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-28 18:13:35 [INFO] conftest.py:141 Test_SignUp_Suite/test_signUp.py::Test_signUp_functionality::test_sign_in
+2023-08-28 18:13:35 [INFO] conftest.py:150 08_28_1813_35_test_sign_in.png
+2023-08-28 18:13:35 [INFO] conftest.py:232 _Capture_screenShot:::/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/Test_output/Images/08_28_1813_35_test_sign_in.png
+2023-08-28 18:13:35 [WARNING] connectionpool.py:871 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11541b190>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/da11b494ab87be9bd1b788c6b820342c/screenshot
+2023-08-28 18:13:35 [WARNING] connectionpool.py:871 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x115418fd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/da11b494ab87be9bd1b788c6b820342c/screenshot
+2023-08-28 18:13:35 [WARNING] connectionpool.py:871 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x115418410>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/da11b494ab87be9bd1b788c6b820342c/screenshot
+2023-08-28 18:13:35 [ERROR] conftest.py:237 Fail to take screen-shot: HTTPConnectionPool(host='localhost', port=63126): Max retries exceeded with url: /session/da11b494ab87be9bd1b788c6b820342c/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x115422010>: Failed to establish a new connection: [Errno 61] Connection refused'))
 Traceback (most recent call last):
   File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 203, in _new_conn
     sock = connection.create_connection(
@@ -41,12 +41,12 @@ Traceback (most recent call last):
                 ^^^^^^^^^^^^^^^^
   File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/connection.py", line 218, in _new_conn
     raise NewConnectionError(
-urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x115422010>: Failed to establish a new connection: [Errno 61] Connection refused
 
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 226, in _capture_screenshot
+  File "/Users/webclues/Tanishq/Projects/arise_capital/Test_Cases/conftest.py", line 234, in _capture_screenshot
     driver.get_screenshot_as_file(IMAGES_DIR_PATH)
   File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 802, in get_screenshot_as_file
     png = self.get_screenshot_as_png()
@@ -90,4 +90,4 @@ Traceback (most recent call last):
   File "/Users/webclues/Tanishq/Projects/arise_capital/.venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 515, in increment
     raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=63764): Max retries exceeded with url: /session/137c061a5b868a2be68795fd26080b95/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x121a32b50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=63126): Max retries exceeded with url: /session/da11b494ab87be9bd1b788c6b820342c/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x115422010>: Failed to establish a new connection: [Errno 61] Connection refused'))

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Aug 28 18:13:30 IST 2023","Mon Aug 28 18:13:35 IST 2023","5118","Test_SignUp_Suite","This suite will test the Sign up functionality of the Application","Test_signUp_functionality","","","test_sign_in","Assert if sign in is displayed in the sign in screen"
